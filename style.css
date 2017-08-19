@@ -33,6 +33,12 @@ footer {
   	margin-top:20px;
 }
 
+
+
+.thumbnail-profile {
+  margin-top: 35px;
+}
+
 .navbar-style {
 	background-color: white;
 }
@@ -65,7 +71,6 @@ footer {
 
 .media-body {
 	padding: 15px 30px 15px 30px;
-
 }
 
 .panel-heading {
@@ -74,7 +79,7 @@ footer {
 }
 
 .panel {
-	margin-top:30px;
+	margin-top: 30px;
 }
 
 .panel-portfolio {
